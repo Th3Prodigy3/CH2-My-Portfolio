@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+header{
+border: 1px solid rgb(248, 6, 6);
+    
+}
+
+#banner{
+border: 1px solid rgb(95, 248, 6);
+}
+
+main{
+border: 1px solid rgb(6, 6, 248);
+
+}
